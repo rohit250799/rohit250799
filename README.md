@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rohit250799, a Software Developer
-- 👀 I’m interested in exploring more about Python, Django, MySQL/PostgreSQL and GoLang.
+- 👀 I’m interested in exploring more about Python(Django / FastApi), MySQL/PostgreSQL and GoLang.
 - 🌱 I’m currently working on Golang.
 
 - 💞️ I’m looking to collaborate on challenging projects with any tech stack - doesn't matter.
